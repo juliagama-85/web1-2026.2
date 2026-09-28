@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+}
+div.d1{
+    background-color: green;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+    font-style: oblique;
+}
+div.d2{
+    background-color: darkblue;
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    background-color: brown;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: rgb(255, 0, 128);
+}
+p{
+    background-color: aliceblue;
+    color: rgb(153, 19, 206);
+}
+p{background-color: bisque;
+    color: rgb(153, 0, 255);
+}
+P{
+   background-color: blanchedalmond;
+   color: rgb(131, 0, 253);
+}
+
+li{
+    font-style: italic;
+    color: gold;
+    width: 50px;
+    height: 30px;
+}
+a:link{
+    color: gray;
+}
+a:visited{
+    text-transform: uppercase;
+    background-color: blue;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: pink;
+}
+
